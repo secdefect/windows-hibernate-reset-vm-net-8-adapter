@@ -1,4 +1,4 @@
-# Windows hibernate wake reset vmnet8 adapter fix Task
+# Automatically Fix VMNet8 NAT Adapter after hibernate
 Windows Task to disable/enable VMNet8 adapter after hibernate wake
 
 VMware NAT adapter is known to break after a hibernate wake or sleep wake
